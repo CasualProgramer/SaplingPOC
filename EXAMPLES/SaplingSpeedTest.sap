@@ -1,0 +1,8 @@
+i = 0
+main () {
+    while ~i <= 10000 {
+        print i
+        i = i + 1
+    }
+    return 0
+}
